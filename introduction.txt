@@ -1,3 +1,4 @@
 Name: Bishal Kunwar Magar
 Age: 19
 Class: 13
+Friend: Monica Shrestha
